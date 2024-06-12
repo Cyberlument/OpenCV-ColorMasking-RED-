@@ -13,6 +13,11 @@ Tujuan dari proyek ini adalah untuk mendeteksi warna merah dalam video real-time
 1. Clone repository: `git clone https://github.com/your-username/mini-project-opencv.git`
 2. Install dependensi yang diperlukan: `pip install -r requirements.txt`
 
+## Library Yang Digunakan
+
+1. numpy: Library untuk komputasi numerical .
+2. opencv-python: Library untuk computer vision.
+
 ## Penggunaan
 
 1. Jalankan aplikasi: `RedMaskingMirror.py`
