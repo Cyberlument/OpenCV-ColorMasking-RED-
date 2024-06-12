@@ -26,7 +26,7 @@ Tujuan dari proyek ini adalah untuk mendeteksi warna merah dalam video real-time
 
 ## Alat dan Software Yang Digunakan
 
-- Webcam JETE W7
+- [Webcam JETE W7](https://jete.id/product/webcam-jete-w7-full-hd-1080px/) - Webcam Yang Digunakan Untuk Mini Proyek Ini.
 - [OpenCV](https://opencv.org/) - Perpustakaan Komputer Visi Sumber Terbuka
 - [Python](https://www.python.org/) - Bahasa Pemrograman
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor Teks
