@@ -10,7 +10,7 @@ Tujuan dari proyek ini adalah untuk mendeteksi warna merah dalam video real-time
 
 ## Instalasi
 
-1. Clone repository: `git clone https://github.com/your-username/mini-project-opencv.git`
+1. Clone repository: `git clone https://github.com/cyberlument/OpenCV-ColorMasking-RED-.git`
 2. Install dependensi yang diperlukan: `pip install -r requirements.txt`
 
 ## Library Yang Digunakan
