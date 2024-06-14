@@ -24,6 +24,11 @@ Tujuan dari proyek ini adalah untuk mendeteksi warna merah dalam video real-time
 2. Sesuaikan pengaturan kamera dan pastikan kondisi pencahayaan yang baik untuk deteksi warna yang akurat.
 3. Aplikasi akan menampilkan feed video real-time dengan warna merah yang disorot.
 
+## Output Yang Dihasilkan
+![PengujianMiniProjectOpenCVRedMasking1](https://github.com/Cyberlument/OpenCV-ColorMasking-RED-/assets/101156094/10dce2f1-8940-496a-9804-6c3d258e39e9)
+
+![PengujianMiniProjectOpenCVRedMasking2](https://github.com/Cyberlument/OpenCV-ColorMasking-RED-/assets/101156094/196a72d7-c6d1-490c-9094-53b5e05d977c)
+
 ## Alat dan Software Yang Digunakan
 
 - [Webcam JETE W7](https://jete.id/product/webcam-jete-w7-full-hd-1080px/) - Webcam Yang Digunakan Untuk Mini Proyek Ini.
