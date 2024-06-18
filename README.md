@@ -1,3 +1,7 @@
+<p align="center">
+  <b>--- English ---</b>
+</p>
+
 # Mini OpenCV Project
 This project is an image processing application that uses OpenCV to detect the color red in real-time from video captured by a camera. The background of this project is the need to detect red-colored objects in various applications such as object tracking, video analysis, and pattern recognition. Red color detection is done by converting the color space from BGR to HSV, which is more effective for color segmentation.
 
@@ -24,14 +28,17 @@ The application will display a real-time video feed with the red color highlight
 
 ![PengujianMiniProjectOpenCVRedMasking2](https://github.com/Cyberlument/OpenCV-ColorMasking-RED-/assets/101156094/196a72d7-c6d1-490c-9094-53b5e05d977c)
 
-## Alat dan Software Yang Digunakan
+## Tools and Software Used
 
-- [Webcam JETE W7](https://jete.id/product/webcam-jete-w7-full-hd-1080px/) - Webcam Yang Digunakan Untuk Mini Proyek Ini.
-- [OpenCV](https://opencv.org/) - Perpustakaan Komputer Visi Sumber Terbuka
-- [Python](https://www.python.org/) - Bahasa Pemrograman
-- [Visual Studio Code](https://code.visualstudio.com/) - Editor Teks
+- [Webcam JETE W7](https://jete.id/product/webcam-jete-w7-full-hd-1080px/) - Webcam used for this mini project.
+- [OpenCV](https://opencv.org/) -  Open Source Computer Vision Library
+- [Python](https://www.python.org/) - Programming Language
+- [Visual Studio Code](https://code.visualstudio.com/) - Text Editor
 
----
+<p align="center">
+  <b>--- Indonesia ---</b>
+</p>
+
 
 # Proyek Mini OpenCV
 
