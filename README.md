@@ -78,4 +78,6 @@ Tujuan dari proyek ini adalah untuk mendeteksi warna merah dalam video real-time
 - [Python](https://www.python.org/) - Bahasa Pemrograman
 - [Visual Studio Code](https://code.visualstudio.com/) - Editor Teks
 
-
+<p align="center">
+  &copy; 2024 Rayhan D Hadian. All rights reserved.
+</p>
